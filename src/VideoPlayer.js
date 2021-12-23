@@ -15,7 +15,7 @@ export default function VideoPlayer () {
         </div>
         <mux-video
              controls
-             playback-id="PrTjXHN68NzDVbruimuT4gFj01EA1ZDooCy3cD6WU201g"
+             playback-id="qAXUv6502i01P5PebyhVA8wdX1LfZsjpj5xYsEiu1NIP00"
              env-key="453etipsmjhqdo6h08udt5u1n"
              stream-type="vod"
              style={{ width: "100%", maxWidth: "500px" }}

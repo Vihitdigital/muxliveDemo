@@ -7,7 +7,7 @@ function App() {
         <h1> deployment of project</h1>
         <VideoPlayer />
         
-        <b><p>jay mahadev</p></b>
+        
         </div>
     );
 }
